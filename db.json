@@ -1,9 +1,39 @@
 {
   "productos":[
-    {"id":1, "nombre":"zapatilla", "precio":1020, "stock":1000},
-    {"id":2, "nombre":"remera", "precio":450, "stock":750},
-    {"id":3, "nombre":"medias", "precio":234, "stock":3100},
-    {"id":4, "nombre":"campera", "precio":4320, "stock":50},
-    {"id":5, "nombre":"buzo", "precio":900, "stock":1000}
+    {
+      "id":1, 
+      "nombre":"zapatilla", 
+      "precio":1020, 
+      "stock":1000, 
+      "descripcion":"zapatillas deportivas escolares."
+    },
+    {
+      "id":2, 
+      "nombre":"remera", 
+      "precio":450, 
+      "stock":750, 
+      "descripcion":"remera blanca lisa."
+    },
+    {
+      "id":3, 
+      "nombre":"medias", 
+      "precio":234, 
+      "stock":3100, 
+      "descripcion":"medias adulto negras"
+    },
+    {
+      "id":4, 
+      "nombre":"campera", 
+      "precio":4320, 
+      "stock":50, 
+      "descripcion":"campera eco cuero."
+    },
+    {
+      "id":5, 
+      "nombre":"buzo", 
+      "precio":900, 
+      "stock":1000, 
+      "descripcion":"buzo polar unisex negro."
+    }
   ]
 }
